@@ -1,0 +1,20 @@
+[
+    {
+        "id_venta": 1,
+        "id_usuario": 1,
+        "id_producto": 3,
+        "fecha": "2026-09-27"
+    },
+    {
+        "id_venta": 2,
+        "id_usuario": 2,
+        "id_producto": 1,
+        "fecha": "2026-09-27"
+    },
+    {
+        "id_venta": 3,
+        "id_usuario": 1,
+        "id_producto": 4,
+        "fecha": "2026-09-27"
+    }
+]
